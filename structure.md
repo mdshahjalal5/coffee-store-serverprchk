@@ -1,3 +1,4 @@
+.
 ├── bun.lock
 ├── package.json
 ├── README.md
@@ -6,18 +7,18 @@
 │   │   ├── config
 │   │   │   └── db.js
 │   │   └── modules
-│   │   └── coffee
-│   │   ├── apiCoffee.hurl
-│   │   ├── coffee.route.js
-│   │   ├── controller.js
-│   │   └── service.js
+│   │       └── coffee
+│   │           ├── apiCoffee.hurl
+│   │           ├── coffee.route.js
+│   │           ├── controller.js
+│   │           └── service.js
 │   ├── app.js
 │   ├── errors
 │   │   ├── globalError.js
 │   │   └── notFound.js
 │   ├── server.js
 │   └── utils
-│   └── sendResponose.js
+│       └── sendResponose.js
 ├── structure.md
 └── structure.txt
 
